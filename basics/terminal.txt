@@ -1,0 +1,36 @@
+ls - pokazyvaet vse faily papki vnutri tekuwei direktorii
+ls test - pokazyvaet vse faily i papki test
+ls -a - pokazyvaet takje skrytye faily i papki
+ls -l - pokazyvaet bolee podrobnuyu informaciyu
+
+cd - perehodit v domawnuyu papki
+cd ~ - perehodit v domawnuyu papku
+cd folder - perehodit v papku folder
+cd . - ostaetsya na meste
+cd .. vozvrat nazad
+cd test/test2 - perehodit v papku test2, kotoraya nahoditsya v papke test
+
+mkdir test - sozdaet papku test 
+mkdir test/test2 - sozdaet papku test2 vnutri test(esli papka test suwestvuet)
+mkdir test1 test2 - sozdaet papki test1  i test2
+
+touch test.txt - sozdaet fail test.txt
+touch test/test.txt - sozdaet fail test.txt vnutri papki test
+touch test1.txt test2.txt - sozdaet faily test1.txt vnutri papki test1.txt
+
+rm test - udalayet fail test (esli eto ne papka)
+rm -rf test - udalayet fail ili papku so vsem soderjimym (udalayet bezvosvratno)
+rm -rf / ! NE PISAT NIKOGDA
+
+pwd -pokazyvaet gde my sei4as nahodimsya (print working directory)
+
+cat test.txt - pokazyvaet soderjimoe faila
+nano test.txt otkryvaet test.txt v redaktore coda nano (v terminale)
+code test.txt otkryvaet v redaktore coda vscode
+
+sudo prava superuzera (superuzer do)
+sudo snap install telegram-desktop - ustanovka telegrama
+snap -  dlya prilojenii
+
+(apt - sistemnyi ustanovwik)
+(snap - ustanovwik paketov)
