@@ -1,0 +1,4 @@
+git init - sozdaem git repozitorii iz tekuwei papki
+git add . - prosto piwem etu komandu kajdyi raz pered commit
+git commit -m 'message' - sozdaem novuyu versiyu
+git push origin master - dobavlyaet obnovlenia na github
