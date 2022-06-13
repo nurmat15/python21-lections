@@ -91,3 +91,11 @@ for i in range(1, 101):
         print("FizzBuzz")
         else: print(i)
 
+
+"======Ternarnye operatory======"
+# usloviya v odnu stro4ku
+telo1 if uslovie else telo2
+res = 'Hello' if a == 5 else 'Bye'
+print (res)
+# Hello, esli a == 5
+# Bye, esli a != 5
