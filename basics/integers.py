@@ -56,4 +56,4 @@ round(10.0474, 3) # 10.0447
 # dlya raboty nujno ee impotirovat iz biblioteki math
 from math import sqrt
 sqrt(36) # 6
-sqrt(25) # 5
+sqrt(2)
